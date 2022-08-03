@@ -107,8 +107,12 @@ getContentType, downloadContentFromMessage } = require('@adiwajshing/baileys');
     let s = isNaN(ms) ? '--' : Math.floor(ms / 1000) % 60
     return [h, m, s].map(v => v.toString().padStart(2, 0) ).join(':')
    }
-
-
+//antispam or auto react
+//if (m.message && msgFilter.isFiltered(from)) {
+//console.log(`${global.themeemoji}[SPAM]`, color(moment(m.messageTimestamp * 1000).format('DD/MM/YYYY HH:mm:ss'), 'yellow'), color(`${command} [${args.length}]`), 'from', color(m.pushName))
+//return Thunder-XM_Multi-Device.sendMessage(from, { react: { text: `${global.themeemoji}`, key: m.key }})
+	
+//}
    
     let LETT = 1;    
     let MenuList = `• *INFO ${Options.info.botName}*\n\n`    
