@@ -27,7 +27,7 @@
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://youtube.com/c/chiragyoutuber">
-    <img align="left" alt="SIEGRIN | YOUTUBE" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/YOUTUBE.svg" />
+    <img align="left" alt="CHANNEL | YOUTUBE" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://instagram.com/CHIRAG__BHATNAGAR?igshid=YmMyMTA2M2Y=">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
