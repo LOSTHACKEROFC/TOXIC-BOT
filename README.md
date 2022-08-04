@@ -1,9 +1,9 @@
 <p align="center">
     <img src="https://telegra.ph/file/7ff09176639655a9fb919.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">FangzBOT - MD</h1>
+<h1 align="center">TOXIC-BOT</h1>
 <p align="center">
-  <a href="https://github.com/LOSTHACKEROFC"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=TOXIC+BOT+Multi+Device;Base+ori+by+CHIRAG YOUTUBER;Recode+By+CHIRAG YOUTUBER;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/LOSTHACKEROFC"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=TOXIC+BOT+Multi+Device;Base+by+CHIRAG YOUTUBER;Recode+By+CHIRAG YOUTUBER;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU🥰🥺">
 </p>
 
 <p align="center">
