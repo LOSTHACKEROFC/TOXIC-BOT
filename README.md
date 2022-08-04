@@ -220,7 +220,7 @@ conn.sendButton(
 )
 
 // example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
+conn.sendButton(m.chat, 'Hello world!', '@CHIRAGYOUTUBER', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
