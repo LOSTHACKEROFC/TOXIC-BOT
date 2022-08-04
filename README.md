@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">TOXIC-BOT</h1>
 <p align="center">
-  <a href="https://github.com/LOSTHACKEROFC"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=TOXIC+BOT+Multi+Device;Base+by+CHIRAG YOUTUBER;Recode+By+CHIRAG YOUTUBER;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU🥰🥺">
+  <a href="https://github.com/LOSTHACKEROFC"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=TOXIC+BOT+Multi+Device;CODE+by+CHIRAG+YOUTUBER;Recode+By+CHIRAG+YOUTUBER;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU🥰🥺">
 </p>
 
 <p align="center">
